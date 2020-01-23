@@ -1,0 +1,10 @@
+// You can store adresses and other people related information
+
+< online address book (social accounts, mobile or other phone numbers, email)
+>> database, tables, routes, controllers
+> Add new person (form)
+
+-> errors, notifications, messages
+-> back-end
+-> front-end
+-> 
